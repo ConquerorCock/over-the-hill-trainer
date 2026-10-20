@@ -1,0 +1,13 @@
+# Memory signatures / offsets for over-the-hill-trainer.
+# Update per game build. Verify with `python -m trainer.diagnostics`.
+game_build: "2026.01.14-r13"
+offsets:
+  entity_manager: 0x02A1F4C0
+  local_player: 0x02A1F510
+  view_matrix: 0x02B0C8A0
+  weapon_base: 0x029F1120
+chains:
+  local_player:
+    - [0x10, 0x28, 0x0]
+  entity_list:
+    - [0x18, 0x0]
