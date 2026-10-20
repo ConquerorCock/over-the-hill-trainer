@@ -1,0 +1,1 @@
+"""Ingest handlers: turn raw OS/game signals into pipeline events."""
