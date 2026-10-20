@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+*.log
+*.tmp
+config/local.yaml
+dumps/*.bin
+.idea/
+.vscode/
+*.swp
+osu_trainer_cache/
+*.pkl
