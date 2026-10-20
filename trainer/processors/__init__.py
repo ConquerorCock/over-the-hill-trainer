@@ -1,0 +1,1 @@
+"""Processors mutate events in-flight; they hold the actual trainer logic."""
