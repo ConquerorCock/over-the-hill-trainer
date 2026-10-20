@@ -1,0 +1,9 @@
+# over-the-hill-trainer runtime deps
+pywin32==306
+psutil==5.9.8
+pymem==1.13.0
+pyyaml==6.0.1
+rich==13.7.1
+pydantic==2.7.1
+keyboard==0.13.5
+numpy==1.26.4
